@@ -15,7 +15,7 @@ At the moment, the only way to adjust resolution and turn of antialiasing is by 
 
 mandelbrot_set.py can be used as a library for plain output of image 
  
-mandelbrot_set(xmin,xmax,ymin,ymax,maxiter)
-xmin, xmax - x axis range
-ymin, ymax - y axis range
+mandelbrot_set(xmin,xmax,ymin,ymax,maxiter)|
+xmin, xmax - x axis range|
+ymin, ymax - y axis range|
 maxiter - maximum number of iterations per pixel in computation
