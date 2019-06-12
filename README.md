@@ -2,10 +2,10 @@
 Mandelbrot set with high speed multicore computation and simple GUI for zoom
 
 Lib requirements:
-  numba
-  numpy
-  PIL (pillow)
-  Tkinter
+  numba,
+  numpy,
+  PIL (pillow),
+  Tkinter,
   
 GIL is lifted using numba compiled functions  
 Resulting image is rendered at double resolution (default) and downscaled using antialiasing
